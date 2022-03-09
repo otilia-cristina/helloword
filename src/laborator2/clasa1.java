@@ -6,7 +6,8 @@ public class clasa1 {
 		System.out.println("hello");
         System.out.println("portocale");
 		 System.out.println("atat se poate");
-		// hiiis
+		
+		
 	}
 
 }
